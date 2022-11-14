@@ -1,6 +1,6 @@
 🏔ABOUT ME
 
-- 💻 I'm open to work Junior Quality Engineer.
+- 💻 I'm open to work Junior QA Engineer.
 - 🤓 Finished course in Software testing at IT-Academy
 - 🌱 Well-organised, detail-oriented, communicative
 
